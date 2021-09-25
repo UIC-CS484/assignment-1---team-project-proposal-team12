@@ -1,4 +1,5 @@
 Github pages site: https://jan3312.github.io/proposal.html
+
 General Responsibilities:
 everything
 
